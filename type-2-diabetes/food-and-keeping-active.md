@@ -26,11 +26,8 @@ The charity Diabetes UK has lots of  information on:
 - [recipes for people with diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Enjoy-food/Cooking-for-people-with-diabetes/)
 - [food and nutrition message board](http://www.diabetes.co.uk/forum/category/food-nutrition-and-recipes.3/).
 
-<div class="callout-box">
-  <p>
-    Once a year you should go for a <a href="/type-2-diabetes/going-for-regular-check-ups">regular diabetes check</a> to make sure your blood pressure and your cholesterol (blood fats) level are ok.
-  </p>
-</div>
+Once a year you should go for a [regular diabetes check](/type-2-diabetes/going-for-regular-check-ups) to make sure your blood pressure and your cholesterol (blood fats) level are ok.
+{:.callout-box}
 
 ##Help with changing your diet
 If you find it hard to change your diet, a dietitian might be able to help.

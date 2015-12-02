@@ -14,11 +14,8 @@ Diabetes usually gets worse over time so your medicine or dose will need to chan
 
 Diabetes medicines help lower the amount of glucose in your blood.
 
-<div class="callout-box">
-  <p>
-    There are many types of medicine for type 2 diabetes. It can take time to find a medicine and dose that’s right for you.
-  </p>
-</div>
+There are many types of medicine for type 2 diabetes. It can take time to find a medicine and dose that’s right for you.
+{:.callout-box}
 
 You’ll usually be offered a medicine called metformin first. If your blood glucose levels haven’t lowered within 3 months, other medicines may be recommended. These will usually be in addition to metformin.
 
