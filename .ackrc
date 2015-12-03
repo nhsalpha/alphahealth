@@ -1,0 +1,3 @@
+--ignore-directory=_site
+--ignore-directory=_deploy
+--ignore-directory=.sass-cache
