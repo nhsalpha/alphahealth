@@ -18,7 +18,7 @@ case "${NHSALPHA_ENVIRONMENT}" in
         ;;
 esac
 
-S3CMD_OPTIONS="--access_key $AWS_ACCESS_KEY --secret_key $AWS_SECRET_KEY --config .deliver/s3cfg sync --delete-removed"
+S3CMD_OPTIONS="--access_key $AWS_ACCESS_KEY --secret_key $AWS_SECRET_KEY --config .deliver/s3cfg sync --delete-removed --acl-public"
 
 # Generate the site with jekyll before delivering
 ASSETS_DIR="_deploy/"
